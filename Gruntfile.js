@@ -261,6 +261,14 @@ module.exports = function (grunt) {
                 'svgmin',
                 'htmlmin'
             ]
+        },
+        githubPages: {
+            all: {
+                options: {
+                    commitMessage: 'New deployment to github pages'
+                },
+                src: 'dist'
+            }
         }
     });
 
@@ -299,5 +307,9 @@ module.exports = function (grunt) {
         'jshint',
         // 'test',
         'build'
+    ]);
+
+    grunt.registerTask('deploy', [
+        'githubPages:all'
     ]);
 };
