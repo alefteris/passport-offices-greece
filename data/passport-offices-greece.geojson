@@ -1,0 +1,1400 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.427245, 37.746513]
+      },
+      "properties": {
+        "title": "Α.Τ. Αίγινας",
+        "description": "Λαδά Λεονανδρού 12, Αίγινα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.429331, 38.373279]
+      },
+      "properties": {
+        "title": "Α.Τ. Αιτωλίας",
+        "description": "Αρχιεπίσκοπου Δαμασκηνού 11, Μεσολόγγι",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.40361, 38.617925]
+      },
+      "properties": {
+        "title": "Α.Δ. Ακαρνανίας",
+        "description": "Αθ. Κυριαζή, Αγρίνιο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.874949, 40.844346]
+      },
+      "properties": {
+        "title": "Α.Δ. Αλεξανδρούπολης",
+        "description": "Καραϊσκάκι 6, Αλεξανδρούπολη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.936684, 37.836717]
+      },
+      "properties": {
+        "title": "Α.Τ. Άνδρου",
+        "description": "Εμπειρίκου 2, Τ.Κ. 84500, Άνδρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.816952, 37.570733]
+      },
+      "properties": {
+        "title": "Α.Δ. Αργολίδας",
+        "description": "Ελευθερίας 2, Ναύπλιο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.381088, 37.507677]
+      },
+      "properties": {
+        "title": "Α.Δ. Αρκαδίας",
+        "description": "Αλεξάνδρου Σούτσου 29 & Σαχτούρη, Τρίπολη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.980652, 39.162018]
+      },
+      "properties": {
+        "title": "Α.Δ. Άρτας",
+        "description": "Αγ. Αρτεμίου & Αγ. Ειρήνης, Άρτα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.728752, 37.984528]
+      },
+      "properties": {
+        "title": "Α.Τ. Αγίας Παρασκευής",
+        "description": "Πεντέλης 10, Αγ. Παρασκευή",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.788329, 38.031698]
+      },
+      "properties": {
+        "title": "Α.Τ. Αμαρουσίου",
+        "description": "Αγίου Όρους 16, Μαρούσι",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.751137, 38.092909]
+      },
+      "properties": {
+        "title": "Α.Τ. Αχαρνών",
+        "description": "Πλήθωνος Γεμιστού 52-54, Αχαρναί",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.745188, 37.901652]
+      },
+      "properties": {
+        "title": "Υποδιεύθυνση Ασφάλειας Νοτιο-Ανατολικής Αττικής",
+        "description": "Πρώην Ανατολικός Αερολιμένας Αθηνών, Ελληνικό",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.720651, 37.98786]
+      },
+      "properties": {
+        "title": "Διεύθυνση Τροχαίας Αττικής",
+        "description": "Σάμου 7Α, Παραπλεύρως Θεοδ. Δηληγιάννη, Μεταξουργείο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.54071587, 38.04708775]
+      },
+      "properties": {
+        "title": "Α.Τ. Ελευσίνας",
+        "description": "Δήμητρος & Λεωφ. Εθνικής Αντιστάσεως, Ελευσίνα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.77359598, 37.97837991]
+      },
+      "properties": {
+        "title": "Α.Τ. Ζωγράφου",
+        "description": "Ηρώων Πολυτεχνείου 14, Ζωγράφου",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.70483487, 37.96053784]
+      },
+      "properties": {
+        "title": "Α.Τ. Καλλιθέας",
+        "description": "Λασκαρίδου 44, Αθήνα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.98394823, 37.80688075]
+      },
+      "properties": {
+        "title": "Α.Τ. Κερατέας",
+        "description": "Δημητρίου Λιούμη & Παπανικολάου, Κερατέα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.81317734, 38.07469601]
+      },
+      "properties": {
+        "title": "Α.Τ. Κηφισιάς",
+        "description": "Όθωνος 94, Κηφισιά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.74808549, 37.97067101]
+      },
+      "properties": {
+        "title": "Α.Τ. Παγκρατίου",
+        "description": "Πρατίνου 49, Αθήνα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.700089, 37.921151]
+      },
+      "properties": {
+        "title": "Α.Τ. Παλαιού Φαλήρου",
+        "description": "Αίαντος 8, Παλαιό Φάληρο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.877593, 38.001897]
+      },
+      "properties": {
+        "title": "Α.Τ. Παλλήνης",
+        "description": "Αθανασίου Διάκου 14, Παλλήνη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.73928248, 38.01708552]
+      },
+      "properties": {
+        "title": "Α.Τ. Πατησίων",
+        "description": "Αγίας Λαύρας 17, Αθήνα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.64345788, 37.93528766]
+      },
+      "properties": {
+        "title": "Α´ Α.Τ. Πειραιά",
+        "description": "Αφεντούλη 20, Πειραιάς",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.63787889, 37.95346579]
+      },
+      "properties": {
+        "title": "Α.Δ. Πειραιά",
+        "description": "Σαλαμίνος 46, Καμίνια",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.68122875, 38.00325175]
+      },
+      "properties": {
+        "title": "Τμήμα Τροχαίας Αιγάλεω",
+        "description": "Λεωφ. Αθηνών 260, Αιγάλεω",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.74638766, 38.03974731]
+      },
+      "properties": {
+        "title": "Πρώην Σχολή Μετεκπαίδευσης Φιλαδέλφειας",
+        "description": "Πατριάρχου Κωνσταντίνου 18, Νέα Φιλαδέλφεια",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.737659, 38.245551]
+      },
+      "properties": {
+        "title": "Α.Δ. Αχαΐας",
+        "description": "Ερμού 95, Πάτρα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.877772, 38.441711]
+      },
+      "properties": {
+        "title": "Α.Δ. Βοιωτίας",
+        "description": "Φίλωνος 51, Λιβαδειά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.424964, 40.084537]
+      },
+      "properties": {
+        "title": "Α.Δ. Γρεβενών",
+        "description": "Ευαγγελίστριας 34, Γρεβενά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.150593, 41.151506]
+      },
+      "properties": {
+        "title": "Α.Δ. Δράμας",
+        "description": "Γεωργίου Παπανδρέου 35, Δράμα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.605410, 38.460956]
+      },
+      "properties": {
+        "title": "Α.Δ. Εύβοιας",
+        "description": "Αρεθούσης & Αγ. Ιωάννου 153, Χαλκίδα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.793047, 38.915669]
+      },
+      "properties": {
+        "title": "Α.Δ. Ευρυτανίας",
+        "description": "Εθνικής Αντιστάσεως 9, Καρπενήσι",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.898571, 37.785275]
+      },
+      "properties": {
+        "title": "Α.Δ. Ζακύνθου",
+        "description": "Λομβάρδου 62, Ζάκυνθος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.436048, 37.677047]
+      },
+      "properties": {
+        "title": "Α.Δ. Ηλείας",
+        "description": "Διονύσου 1, Τ.Κ. 27100, Πύργος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.215828, 40.509631]
+      },
+      "properties": {
+        "title": "Α.Δ. Ημαθίας",
+        "description": "Σ. Πέτρουλα 1, Βέροια",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.158885, 35.338652]
+      },
+      "properties": {
+        "title": "Αστυνομικό Μέγαρο Ηρακλείου",
+        "description": "Αγίου Αρτεμίου 1, Νέα Αλικαρνασσός, Τ.Κ. 71601, Ηράκλειο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.709065, 40.77728]
+      },
+      "properties": {
+        "title": "Α.Τ. Θάσου",
+        "description": "Α. Θεολογίτη 4, T.K. 64004, Θάσος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.264135, 39.499583]
+      },
+      "properties": {
+        "title": "Α.Δ. Θεσπρωτίας",
+        "description": "Αγίων Αποστόλων 5, Ηγουμενίτσα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.902416, 40.658601]
+      },
+      "properties": {
+        "title": "Αστυνομικό Μέγαρο Θεσσαλονίκης",
+        "description": "Μοναστηρίου 326, Θεσσαλονίκη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.908097, 40.672859]
+      },
+      "properties": {
+        "title": "Α.Τ. Ευόσμου",
+        "description": "Νυμφαίου 37, Εύοσμος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.946408, 40.576598]
+      },
+      "properties": {
+        "title": "Α.Τ. Καλαμαριάς",
+        "description": "Ταξιαρχών 1, Καλαμαριά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.070886, 40.74707]
+      },
+      "properties": {
+        "title": "Α.Τ. Λαγκαδά",
+        "description": "Λουτρών 14, Λαγκαδάς",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.90761, 40.504378]
+      },
+      "properties": {
+        "title": "Α.Τ. Θερμαϊκού",
+        "description": "25ης Μαρτίου 9, Νέοι Επιβάτες",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.976655, 40.611986]
+      },
+      "properties": {
+        "title": "Α.Τ. Τούμπας",
+        "description": "Λυκάονος 13, Τούμπα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.72178, 38.360457]
+      },
+      "properties": {
+        "title": "Α.Τ. Ιθάκης",
+        "description": "Ευμαίου 14, Τ.Κ 28300, Ιθάκη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.293652, 37.612362]
+      },
+      "properties": {
+        "title": "Α.Τ. Αγίου Κηρύκου",
+        "description": "Αγ.Κήρυκος, Τ.Κ. 83300, Ικαρία",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.281981, 36.723372]
+      },
+      "properties": {
+        "title": "Α.Τ. Ίου",
+        "description": "Ίος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.85264, 39.665686]
+      },
+      "properties": {
+        "title": "Α.Δ. Ιωαννίνων",
+        "description": "28ης Οκτωβρίου 11, Ιωάννινα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.409045, 40.938942]
+      },
+      "properties": {
+        "title": "Α.Δ. Καβάλας",
+        "description": "Ομονοίας 119, Καβάλα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.980641, 36.952207]
+      },
+      "properties": {
+        "title": "Α.Τ. Καλύμνου",
+        "description": "Ενορία Καλαμιώτισας, Τ.Κ. 85200, Κάλυμνος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.921476, 39.364663]
+      },
+      "properties": {
+        "title": "Α.Δ. Καρδίτσας",
+        "description": "2ο χλμ Περ. Οδού Καρδίτσας-Τρικάλων, Τ.Κ 43100, Καρδίτσα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.212972, 35.507243]
+      },
+      "properties": {
+        "title": "Α.Τ. Καρπάθου",
+        "description": "Πηγάδια Καρπάθου, Τ.Κ. 85700, Κάρπαθος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.592581, 36.14951]
+      },
+      "properties": {
+        "title": "Α.Τ. Μεγίστης",
+        "description": "T.K 85111, Μεγίστη, Καστελλόριζο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.260565, 40.522265]
+      },
+      "properties": {
+        "title": "Α.Δ. Καστοριάς",
+        "description": "Γράμμου 25, Καστοριά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.316474, 37.656781]
+      },
+      "properties": {
+        "title": "Α.Τ. Κέας",
+        "description": "Τ.Κ. 84002, Κέα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.877889, 39.623879]
+      },
+      "properties": {
+        "title": "Υποδιεύθυνσης Ασφάλειας Κέρκυρας",
+        "description": "Αλυκές Ποταμού, Κέρκυρα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.489147, 38.180197]
+      },
+      "properties": {
+        "title": "Α.Δ. Κεφαλληνίας",
+        "description": "Ι. Μεταξά 52, Αργοστόλι, Κεφαλλονιά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.876882, 40.99546]
+      },
+      "properties": {
+        "title": "Α.Δ. Κιλκίς",
+        "description": "Τέρμα Γεωργίου Καπέτα, Κιλκίς",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.780932, 40.288807]
+      },
+      "properties": {
+        "title": "Α.Δ. Κοζάνης",
+        "description": "Λ. Ανδρέα Παπανδρέου, Τ.Κ 50100, Κοζάνη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.93257, 37.937619]
+      },
+      "properties": {
+        "title": "Α.Δ. Κορινθίας",
+        "description": "Ερμού 51, Κόρινθος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.983032, 36.324487]
+      },
+      "properties": {
+        "title": "Α.Τ. Κυθήρων",
+        "description": "Χώρα Κυθήρων, Τ.Κ. 80100, Κύθηρα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.942856, 37.444246]
+      },
+      "properties": {
+        "title": "Α.Δ. Κυκλάδων",
+        "description": "Πλ. Ρεθύμνης 10, Ερμούπολη, Σύρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.289883, 36.89698]
+      },
+      "properties": {
+        "title": "Β´ Α.Δ. Δωδεκανήσου",
+        "description": "Ακτή Μιαούλη 2, T.K. 85300, Κως",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.43495, 37.075625]
+      },
+      "properties": {
+        "title": "Α.Δ. Λακωνίας",
+        "description": "Επισκόπου Βρεσθένης 18 - Σπάρτη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.401492, 39.620487]
+      },
+      "properties": {
+        "title": "Α.Δ. Λαρίσης",
+        "description": "Γεωργίου Παπανδρέου 14 & Μουσών, Λάρισα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.717604, 35.189051]
+      },
+      "properties": {
+        "title": "Α.Δ. Λασιθίου",
+        "description": "Τζορντάνο Προύνο, Σταυρός, Άγιος Νικόλαος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.850187, 37.153485]
+      },
+      "properties": {
+        "title": "Α.Τ. Λέρου",
+        "description": "Αγ. Μαρίνα Λέρου, Τ.Κ. 85400, Λέρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.548649, 39.098415]
+      },
+      "properties": {
+        "title": "Γ.Α.Δ.Π. Βορείου Αιγαίου",
+        "description": "Μίλτου Κουντουρά & Κυκλάδων, Τ.Κ. 81100, Μυτιλήνη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.707482, 38.831689]
+      },
+      "properties": {
+        "title": "Α.Δ. Λευκάδος",
+        "description": "Ηρώων Πολυτεχνείου 30, Λευκάδα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.061809, 39.876258]
+      },
+      "properties": {
+        "title": "Α.Τ. Μύρινας",
+        "description": "Μύρινα, Τ.Κ. 81440, Λήμνος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.945627, 39.364464]
+      },
+      "properties": {
+        "title": "Α.Δ. Μαγνησίας",
+        "description": "Γ. Καρτάλη 69 & Ρόζου, Τ.Κ. 38001, Βόλος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.088961, 37.03573]
+      },
+      "properties": {
+        "title": "Α.Δ. Μεσσηνίας",
+        "description": "Ηρώων Πολυτεχνείου, Ν. Πέραμος, Καλαμάτα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.423518, 36.743759]
+      },
+      "properties": {
+        "title": "Α.Τ. Μήλου",
+        "description": "T.K. 84800, Μήλος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.32884, 37.446591]
+      },
+      "properties": {
+        "title": "Α.Τ. Μυκόνου",
+        "description": "Τ.Κ. 84600, Μύκονος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.378018, 37.099048]
+      },
+      "properties": {
+        "title": "Α.Τ. Νάξου",
+        "description": "Τ.Κ. 84300, Νάξος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.893174, 41.1349]
+      },
+      "properties": {
+        "title": "Α.Δ. Ξάνθης",
+        "description": "Νέστου 2Α, Ξάνθη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.534648, 41.502849]
+      },
+      "properties": {
+        "title": "Α.Δ. Ορεστιάδος",
+        "description": "Βασιλέως Κωνσταντίνου 4, Ορεστιάδα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.184544, 39.196958]
+      },
+      "properties": {
+        "title": "Α.Τ. Παξών",
+        "description": "Γάϊος, Τ.Κ. 49082, Παξοί",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.149405, 37.086256]
+      },
+      "properties": {
+        "title": "Α.Τ. Πάρου",
+        "description": "Τ.Κ. 84400, Πάρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.544158, 37.323417]
+      },
+      "properties": {
+        "title": "Α.Τ. Πάτμου",
+        "description": "Τ.Κ. 85500, Πάτμος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.047656, 40.802156]
+      },
+      "properties": {
+        "title": "Α.Δ. Πέλλας",
+        "description": "Ηρώων Πολυτεχνείου 13, Έδεσσα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.520073, 40.286409]
+      },
+      "properties": {
+        "title": "Α.Δ. Πιερίας",
+        "description": "1ο χλμ. Π.Ε.Ο. Κατερίνης - Θεσ/νίκης, Κατερίνη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.454262, 37.499649]
+      },
+      "properties": {
+        "title": "Α.Τ. Πόρου",
+        "description": "Τ.Κ. 18020, Πόρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.749124, 38.970016]
+      },
+      "properties": {
+        "title": "Α.Δ. Πρεβέζης",
+        "description": "Λ. Ιωαννίνων 200, Τ.Κ. 48100, Πρέβεζα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.469978, 35.370098]
+      },
+      "properties": {
+        "title": "Α.Δ. Ρεθύμνου",
+        "description": "Πλ. Ηρώων Πολυτεχνείου 26, Ρέθυμνο",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.414322, 41.12134]
+      },
+      "properties": {
+        "title": "Α.Δ. Ροδόπης",
+        "description": "Λ. Δημοκρατίας 3, Κομοτηνή",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.224212, 36.45091]
+      },
+      "properties": {
+        "title": "Α´ Α.Δ. Δωδεκανήσου",
+        "description": "Πλατεία Ελευθερίας, Ρόδος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.490698, 37.96614]
+      },
+      "properties": {
+        "title": "Α.Τ. Σαλαμίνας",
+        "description": "Σολωμού 4, Τ.Κ. 18900, Σαλαμίνα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.474364, 40.474734]
+      },
+      "properties": {
+        "title": "Α.Τ. Σαμοθράκης",
+        "description": "Καμαριώτισα, Τ.Κ. 68002, Σαμοθράκη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.699947, 37.794762]
+      },
+      "properties": {
+        "title": "Α.Δ. Σάμου",
+        "description": "Πρέσβεως Δημ. Νικολαρεΐζη 2, Σάμος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.433089, 36.418951]
+      },
+      "properties": {
+        "title": "Α.Τ. Θήρας",
+        "description": "Θήρα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.549296, 41.086007]
+      },
+      "properties": {
+        "title": "Α.Δ. Σερρών",
+        "description": "Κερασούντος 3, Σέρρες",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.487736, 39.162743]
+      },
+      "properties": {
+        "title": "Α.Τ. Σκιάθου",
+        "description": "Τ.Κ. 37002, Σκιάθος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.726692, 39.12232]
+      },
+      "properties": {
+        "title": "Α.Τ. Σκοπέλου",
+        "description": "Τ.Κ. 37003, Σκόπελος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.155915, 37.263107]
+      },
+      "properties": {
+        "title": "Α.Τ. Σπετσών",
+        "description": "Σάντους 1, Τ.Κ. 18050, Σπέτσες",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.834953, 36.615062]
+      },
+      "properties": {
+        "title": "Α.Τ. Σύμης",
+        "description": "Τ.Κ. 85600, Σύμη",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.163148, 37.538384]
+      },
+      "properties": {
+        "title": "Α.Τ. Τήνου",
+        "description": "Τ.Κ. 84200, Τήνος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.775656, 39.558585]
+      },
+      "properties": {
+        "title": "Α.Δ. Τρικάλων",
+        "description": "Γιαννιτσών & Φαρμάκη, Τρίκαλα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.465917, 37.348923]
+      },
+      "properties": {
+        "title": "Α.Τ. Ύδρας",
+        "description": "Τ.Κ. 18040, Ύδρα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.438816, 38.882132]
+      },
+      "properties": {
+        "title": "Α.Δ. Φθιώτιδας",
+        "description": "Λ. Αθηνών 188, Λαμία",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.40965, 40.781695]
+      },
+      "properties": {
+        "title": "Α.Δ. Φλώρινας",
+        "description": "Ιωάννη Τρύπη 1, T.K. 53100, Φλώρινα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police",
+        "fixme": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.383001, 38.524235]
+      },
+      "properties": {
+        "title": "Α.Δ. Φωκίδας",
+        "description": "Λ. Σαλώνων & Καραμανλή, Άμφισσα",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.444985, 40.381238]
+      },
+      "properties": {
+        "title": "Α.Δ. Χαλκιδικής",
+        "description": "Χαρ. Τρικούπη 41, Πολύγυρος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.026091, 35.505131]
+      },
+      "properties": {
+        "title": "Α.Δ. Χανίων",
+        "description": "Λ. Ηρακλείου 23, Χανιά",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.137177, 38.365626]
+      },
+      "properties": {
+        "title": "Α.Δ. Χίου",
+        "description": "Κουντουριώτου 32, Χίος",
+        "marker-color": "#0000ff",
+        "marker-symbol": "police"
+      }
+    }
+  ]
+}
