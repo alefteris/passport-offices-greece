@@ -52,8 +52,16 @@
             </footer>
         </div>
 
+        <script id="marker-popup-template" type="text/x-handlebars-template">
+            <div class="marker-title">{{ title }}</div>
+            <p class="marker-description">{{ description }}</p>
+            <p class="marker-link">Περισσότερες πληροφορίες: <a target="_blank" href="{{ passportgovgrUrl }}">passport.gov.gr</a></p>
+        </script>
+
         <script src="//api.tiles.mapbox.com/mapbox.js/v1.2.0/mapbox.js"></script>
         <!-- build:js scripts/main.js -->
+        <script src="bower_components/jquery/jquery.js"></script>
+        <script src="bower_components/handlebars/handlebars.js"></script>
         <script src="scripts/main.js"></script>
         <!-- endbuild -->
 
