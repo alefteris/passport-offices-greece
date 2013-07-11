@@ -10,6 +10,8 @@
       "properties": {
         "title": "Α.Τ. Αίγινας",
         "description": "Λαδά Λεονανδρού 12, Αίγινα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/aigina-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -23,6 +25,8 @@
       "properties": {
         "title": "Α.Τ. Αιτωλίας",
         "description": "Αρχιεπίσκοπου Δαμασκηνού 11, Μεσολόγγι",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/aitolia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -36,6 +40,8 @@
       "properties": {
         "title": "Α.Δ. Ακαρνανίας",
         "description": "Αθ. Κυριαζή, Αγρίνιο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/akarnania-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -49,6 +55,8 @@
       "properties": {
         "title": "Α.Δ. Αλεξανδρούπολης",
         "description": "Καραϊσκάκι 6, Αλεξανδρούπολη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/alexandroupoli-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -62,6 +70,8 @@
       "properties": {
         "title": "Α.Τ. Άνδρου",
         "description": "Εμπειρίκου 2, Τ.Κ. 84500, Άνδρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/andros-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -75,6 +85,8 @@
       "properties": {
         "title": "Α.Δ. Αργολίδας",
         "description": "Ελευθερίας 2, Ναύπλιο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/nauplio-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -88,6 +100,8 @@
       "properties": {
         "title": "Α.Δ. Αρκαδίας",
         "description": "Αλεξάνδρου Σούτσου 29 & Σαχτούρη, Τρίπολη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/arkadia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -101,6 +115,8 @@
       "properties": {
         "title": "Α.Δ. Άρτας",
         "description": "Αγ. Αρτεμίου & Αγ. Ειρήνης, Άρτα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/arta-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -114,6 +130,8 @@
       "properties": {
         "title": "Α.Τ. Αγίας Παρασκευής",
         "description": "Πεντέλης 10, Αγ. Παρασκευή",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/agia-paraskevi-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -127,6 +145,8 @@
       "properties": {
         "title": "Α.Τ. Αμαρουσίου",
         "description": "Αγίου Όρους 16, Μαρούσι",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/marousi-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -140,6 +160,8 @@
       "properties": {
         "title": "Α.Τ. Αχαρνών",
         "description": "Πλήθωνος Γεμιστού 52-54, Αχαρναί",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/axarnai-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -153,6 +175,8 @@
       "properties": {
         "title": "Υποδιεύθυνση Ασφάλειας Νοτιο-Ανατολικής Αττικής",
         "description": "Πρώην Ανατολικός Αερολιμένας Αθηνών, Ελληνικό",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/na-attiki-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -166,6 +190,8 @@
       "properties": {
         "title": "Διεύθυνση Τροχαίας Αττικής",
         "description": "Σάμου 7Α, Παραπλεύρως Θεοδ. Δηληγιάννη, Μεταξουργείο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/diefthinsi-troxaias-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -179,6 +205,8 @@
       "properties": {
         "title": "Α.Τ. Ελευσίνας",
         "description": "Δήμητρος & Λεωφ. Εθνικής Αντιστάσεως, Ελευσίνα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/eleusina-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -192,6 +220,8 @@
       "properties": {
         "title": "Α.Τ. Ζωγράφου",
         "description": "Ηρώων Πολυτεχνείου 14, Ζωγράφου",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/zografou-attikis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -205,6 +235,8 @@
       "properties": {
         "title": "Α.Τ. Καλλιθέας",
         "description": "Λασκαρίδου 44, Αθήνα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kallithea-attikis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -218,6 +250,8 @@
       "properties": {
         "title": "Α.Τ. Κερατέας",
         "description": "Δημητρίου Λιούμη & Παπανικολάου, Κερατέα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/keratea-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -231,6 +265,8 @@
       "properties": {
         "title": "Α.Τ. Κηφισιάς",
         "description": "Όθωνος 94, Κηφισιά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/khfisia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -244,6 +280,8 @@
       "properties": {
         "title": "Α.Τ. Παγκρατίου",
         "description": "Πρατίνου 49, Αθήνα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/pagrati-attikis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -257,6 +295,8 @@
       "properties": {
         "title": "Α.Τ. Παλαιού Φαλήρου",
         "description": "Αίαντος 8, Παλαιό Φάληρο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/palaio-faliro-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -270,6 +310,8 @@
       "properties": {
         "title": "Α.Τ. Παλλήνης",
         "description": "Αθανασίου Διάκου 14, Παλλήνη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/pallini-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -283,6 +325,8 @@
       "properties": {
         "title": "Α.Τ. Πατησίων",
         "description": "Αγίας Λαύρας 17, Αθήνα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/patisia-attikis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -296,6 +340,8 @@
       "properties": {
         "title": "Α´ Α.Τ. Πειραιά",
         "description": "Αφεντούλη 20, Πειραιάς",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/a-peireas-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -309,6 +355,8 @@
       "properties": {
         "title": "Α.Δ. Πειραιά",
         "description": "Σαλαμίνος 46, Καμίνια",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/peireas-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -322,6 +370,8 @@
       "properties": {
         "title": "Τμήμα Τροχαίας Αιγάλεω",
         "description": "Λεωφ. Αθηνών 260, Αιγάλεω",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/troxaia-aigaleo-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -335,6 +385,8 @@
       "properties": {
         "title": "Πρώην Σχολή Μετεκπαίδευσης Φιλαδέλφειας",
         "description": "Πατριάρχου Κωνσταντίνου 18, Νέα Φιλαδέλφεια",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/filadelfia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -348,6 +400,8 @@
       "properties": {
         "title": "Α.Δ. Αχαΐας",
         "description": "Ερμού 95, Πάτρα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/achaia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -361,6 +415,8 @@
       "properties": {
         "title": "Α.Δ. Βοιωτίας",
         "description": "Φίλωνος 51, Λιβαδειά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/viotia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -374,6 +430,8 @@
       "properties": {
         "title": "Α.Δ. Γρεβενών",
         "description": "Ευαγγελίστριας 34, Γρεβενά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/grevena-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -387,6 +445,8 @@
       "properties": {
         "title": "Α.Δ. Δράμας",
         "description": "Γεωργίου Παπανδρέου 35, Δράμα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/drama-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -400,6 +460,8 @@
       "properties": {
         "title": "Α.Δ. Εύβοιας",
         "description": "Αρεθούσης & Αγ. Ιωάννου 153, Χαλκίδα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/evoia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -413,6 +475,8 @@
       "properties": {
         "title": "Α.Δ. Ευρυτανίας",
         "description": "Εθνικής Αντιστάσεως 9, Καρπενήσι",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/evritania-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -426,6 +490,8 @@
       "properties": {
         "title": "Α.Δ. Ζακύνθου",
         "description": "Λομβάρδου 62, Ζάκυνθος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/zakynthos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -439,6 +505,8 @@
       "properties": {
         "title": "Α.Δ. Ηλείας",
         "description": "Διονύσου 1, Τ.Κ. 27100, Πύργος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ileia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -452,6 +520,8 @@
       "properties": {
         "title": "Α.Δ. Ημαθίας",
         "description": "Σ. Πέτρουλα 1, Βέροια",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/imathia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -465,6 +535,8 @@
       "properties": {
         "title": "Αστυνομικό Μέγαρο Ηρακλείου",
         "description": "Αγίου Αρτεμίου 1, Νέα Αλικαρνασσός, Τ.Κ. 71601, Ηράκλειο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/irakleio-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -478,6 +550,8 @@
       "properties": {
         "title": "Α.Τ. Θάσου",
         "description": "Α. Θεολογίτη 4, T.K. 64004, Θάσος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thasos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -492,6 +566,8 @@
       "properties": {
         "title": "Α.Δ. Θεσπρωτίας",
         "description": "Αγίων Αποστόλων 5, Ηγουμενίτσα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thesprotia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -505,6 +581,8 @@
       "properties": {
         "title": "Αστυνομικό Μέγαρο Θεσσαλονίκης",
         "description": "Μοναστηρίου 326, Θεσσαλονίκη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-megaro-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -518,6 +596,8 @@
       "properties": {
         "title": "Α.Τ. Ευόσμου",
         "description": "Νυμφαίου 37, Εύοσμος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-evosmos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -531,6 +611,8 @@
       "properties": {
         "title": "Α.Τ. Καλαμαριάς",
         "description": "Ταξιαρχών 1, Καλαμαριά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-kalamaria-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -544,6 +626,8 @@
       "properties": {
         "title": "Α.Τ. Λαγκαδά",
         "description": "Λουτρών 14, Λαγκαδάς",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-lagadas-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -557,6 +641,8 @@
       "properties": {
         "title": "Α.Τ. Θερμαϊκού",
         "description": "25ης Μαρτίου 9, Νέοι Επιβάτες",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-thermaikos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -570,6 +656,8 @@
       "properties": {
         "title": "Α.Τ. Τούμπας",
         "description": "Λυκάονος 13, Τούμπα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/thessaloniki-toumpa-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -583,6 +671,8 @@
       "properties": {
         "title": "Α.Τ. Ιθάκης",
         "description": "Ευμαίου 14, Τ.Κ 28300, Ιθάκη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ithaki-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -597,6 +687,8 @@
       "properties": {
         "title": "Α.Τ. Αγίου Κηρύκου",
         "description": "Αγ.Κήρυκος, Τ.Κ. 83300, Ικαρία",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ikaria-agios-kirikos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -611,6 +703,8 @@
       "properties": {
         "title": "Α.Τ. Ίου",
         "description": "Ίος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ios-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -625,6 +719,8 @@
       "properties": {
         "title": "Α.Δ. Ιωαννίνων",
         "description": "28ης Οκτωβρίου 11, Ιωάννινα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ioannena-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -638,6 +734,8 @@
       "properties": {
         "title": "Α.Δ. Καβάλας",
         "description": "Ομονοίας 119, Καβάλα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kavala-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -651,6 +749,8 @@
       "properties": {
         "title": "Α.Τ. Καλύμνου",
         "description": "Ενορία Καλαμιώτισας, Τ.Κ. 85200, Κάλυμνος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kalymnos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -665,6 +765,8 @@
       "properties": {
         "title": "Α.Δ. Καρδίτσας",
         "description": "2ο χλμ Περ. Οδού Καρδίτσας-Τρικάλων, Τ.Κ 43100, Καρδίτσα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/karditsa-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -679,6 +781,8 @@
       "properties": {
         "title": "Α.Τ. Καρπάθου",
         "description": "Πηγάδια Καρπάθου, Τ.Κ. 85700, Κάρπαθος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/karpathos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -693,6 +797,8 @@
       "properties": {
         "title": "Α.Τ. Μεγίστης",
         "description": "T.K 85111, Μεγίστη, Καστελλόριζο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kastelorizo-megisti-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -707,6 +813,8 @@
       "properties": {
         "title": "Α.Δ. Καστοριάς",
         "description": "Γράμμου 25, Καστοριά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kastoria-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -720,6 +828,8 @@
       "properties": {
         "title": "Α.Τ. Κέας",
         "description": "Τ.Κ. 84002, Κέα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kea-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -734,6 +844,8 @@
       "properties": {
         "title": "Υποδιεύθυνσης Ασφάλειας Κέρκυρας",
         "description": "Αλυκές Ποταμού, Κέρκυρα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kerkyra-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -748,6 +860,8 @@
       "properties": {
         "title": "Α.Δ. Κεφαλληνίας",
         "description": "Ι. Μεταξά 52, Αργοστόλι, Κεφαλλονιά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kefalonia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -761,6 +875,8 @@
       "properties": {
         "title": "Α.Δ. Κιλκίς",
         "description": "Τέρμα Γεωργίου Καπέτα, Κιλκίς",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kilkis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -774,6 +890,8 @@
       "properties": {
         "title": "Α.Δ. Κοζάνης",
         "description": "Λ. Ανδρέα Παπανδρέου, Τ.Κ 50100, Κοζάνη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kozanis-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -788,6 +906,8 @@
       "properties": {
         "title": "Α.Δ. Κορινθίας",
         "description": "Ερμού 51, Κόρινθος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/korinthos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -801,6 +921,8 @@
       "properties": {
         "title": "Α.Τ. Κυθήρων",
         "description": "Χώρα Κυθήρων, Τ.Κ. 80100, Κύθηρα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kythira-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -815,6 +937,8 @@
       "properties": {
         "title": "Α.Δ. Κυκλάδων",
         "description": "Πλ. Ρεθύμνης 10, Ερμούπολη, Σύρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kyklades-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -828,6 +952,8 @@
       "properties": {
         "title": "Β´ Α.Δ. Δωδεκανήσου",
         "description": "Ακτή Μιαούλη 2, T.K. 85300, Κως",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/kos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -841,6 +967,8 @@
       "properties": {
         "title": "Α.Δ. Λακωνίας",
         "description": "Επισκόπου Βρεσθένης 18 - Σπάρτη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/lakonia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -854,6 +982,8 @@
       "properties": {
         "title": "Α.Δ. Λαρίσης",
         "description": "Γεωργίου Παπανδρέου 14 & Μουσών, Λάρισα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/larisa-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -867,6 +997,8 @@
       "properties": {
         "title": "Α.Δ. Λασιθίου",
         "description": "Τζορντάνο Προύνο, Σταυρός, Άγιος Νικόλαος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/lasithiou-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -880,6 +1012,8 @@
       "properties": {
         "title": "Α.Τ. Λέρου",
         "description": "Αγ. Μαρίνα Λέρου, Τ.Κ. 85400, Λέρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/leros-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -894,6 +1028,8 @@
       "properties": {
         "title": "Γ.Α.Δ.Π. Βορείου Αιγαίου",
         "description": "Μίλτου Κουντουρά & Κυκλάδων, Τ.Κ. 81100, Μυτιλήνη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/lesvos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -907,6 +1043,8 @@
       "properties": {
         "title": "Α.Δ. Λευκάδος",
         "description": "Ηρώων Πολυτεχνείου 30, Λευκάδα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/leukada-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -920,6 +1058,8 @@
       "properties": {
         "title": "Α.Τ. Μύρινας",
         "description": "Μύρινα, Τ.Κ. 81440, Λήμνος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/limnos-myrina-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -934,6 +1074,8 @@
       "properties": {
         "title": "Α.Δ. Μαγνησίας",
         "description": "Γ. Καρτάλη 69 & Ρόζου, Τ.Κ. 38001, Βόλος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/magnisia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -947,6 +1089,8 @@
       "properties": {
         "title": "Α.Δ. Μεσσηνίας",
         "description": "Ηρώων Πολυτεχνείου, Ν. Πέραμος, Καλαμάτα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/messinia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -960,6 +1104,8 @@
       "properties": {
         "title": "Α.Τ. Μήλου",
         "description": "T.K. 84800, Μήλος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/milos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -974,6 +1120,8 @@
       "properties": {
         "title": "Α.Τ. Μυκόνου",
         "description": "Τ.Κ. 84600, Μύκονος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/mykonos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -988,6 +1136,8 @@
       "properties": {
         "title": "Α.Τ. Νάξου",
         "description": "Τ.Κ. 84300, Νάξος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/naxos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1002,6 +1152,8 @@
       "properties": {
         "title": "Α.Δ. Ξάνθης",
         "description": "Νέστου 2Α, Ξάνθη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ksanth-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1015,6 +1167,8 @@
       "properties": {
         "title": "Α.Δ. Ορεστιάδος",
         "description": "Βασιλέως Κωνσταντίνου 4, Ορεστιάδα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/evros-orestiadia-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1028,6 +1182,8 @@
       "properties": {
         "title": "Α.Τ. Παξών",
         "description": "Γάϊος, Τ.Κ. 49082, Παξοί",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/paxoi-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1041,6 +1197,8 @@
       "properties": {
         "title": "Α.Τ. Πάρου",
         "description": "Τ.Κ. 84400, Πάρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/paros-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1055,6 +1213,8 @@
       "properties": {
         "title": "Α.Τ. Πάτμου",
         "description": "Τ.Κ. 85500, Πάτμος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/patmos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1069,6 +1229,8 @@
       "properties": {
         "title": "Α.Δ. Πέλλας",
         "description": "Ηρώων Πολυτεχνείου 13, Έδεσσα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/pella-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1082,6 +1244,8 @@
       "properties": {
         "title": "Α.Δ. Πιερίας",
         "description": "1ο χλμ. Π.Ε.Ο. Κατερίνης - Θεσ/νίκης, Κατερίνη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/pieria-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1095,6 +1259,8 @@
       "properties": {
         "title": "Α.Τ. Πόρου",
         "description": "Τ.Κ. 18020, Πόρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/poros-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1109,6 +1275,8 @@
       "properties": {
         "title": "Α.Δ. Πρεβέζης",
         "description": "Λ. Ιωαννίνων 200, Τ.Κ. 48100, Πρέβεζα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/preveza-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1122,6 +1290,8 @@
       "properties": {
         "title": "Α.Δ. Ρεθύμνου",
         "description": "Πλ. Ηρώων Πολυτεχνείου 26, Ρέθυμνο",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/rethymno-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1135,6 +1305,8 @@
       "properties": {
         "title": "Α.Δ. Ροδόπης",
         "description": "Λ. Δημοκρατίας 3, Κομοτηνή",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/rodopi-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1148,6 +1320,8 @@
       "properties": {
         "title": "Α´ Α.Δ. Δωδεκανήσου",
         "description": "Πλατεία Ελευθερίας, Ρόδος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/dodekanisa-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1161,6 +1335,8 @@
       "properties": {
         "title": "Α.Τ. Σαλαμίνας",
         "description": "Σολωμού 4, Τ.Κ. 18900, Σαλαμίνα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/salamina-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1174,6 +1350,8 @@
       "properties": {
         "title": "Α.Τ. Σαμοθράκης",
         "description": "Καμαριώτισα, Τ.Κ. 68002, Σαμοθράκη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/samothraki-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1188,6 +1366,8 @@
       "properties": {
         "title": "Α.Δ. Σάμου",
         "description": "Πρέσβεως Δημ. Νικολαρεΐζη 2, Σάμος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/samos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1202,6 +1382,8 @@
       "properties": {
         "title": "Α.Τ. Θήρας",
         "description": "Θήρα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/santorini-thira-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1216,6 +1398,8 @@
       "properties": {
         "title": "Α.Δ. Σερρών",
         "description": "Κερασούντος 3, Σέρρες",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/serres-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1229,6 +1413,8 @@
       "properties": {
         "title": "Α.Τ. Σκιάθου",
         "description": "Τ.Κ. 37002, Σκιάθος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/skiathos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1243,6 +1429,8 @@
       "properties": {
         "title": "Α.Τ. Σκοπέλου",
         "description": "Τ.Κ. 37003, Σκόπελος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/skopelos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1257,6 +1445,8 @@
       "properties": {
         "title": "Α.Τ. Σπετσών",
         "description": "Σάντους 1, Τ.Κ. 18050, Σπέτσες",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/spetses-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1271,6 +1461,8 @@
       "properties": {
         "title": "Α.Τ. Σύμης",
         "description": "Τ.Κ. 85600, Σύμη",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/symi-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1285,6 +1477,8 @@
       "properties": {
         "title": "Α.Τ. Τήνου",
         "description": "Τ.Κ. 84200, Τήνος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/tinos-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1299,6 +1493,8 @@
       "properties": {
         "title": "Α.Δ. Τρικάλων",
         "description": "Γιαννιτσών & Φαρμάκη, Τρίκαλα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/trikala-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1312,6 +1508,8 @@
       "properties": {
         "title": "Α.Τ. Ύδρας",
         "description": "Τ.Κ. 18040, Ύδρα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/ydra-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1326,6 +1524,8 @@
       "properties": {
         "title": "Α.Δ. Φθιώτιδας",
         "description": "Λ. Αθηνών 188, Λαμία",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/fthiotida-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1339,6 +1539,8 @@
       "properties": {
         "title": "Α.Δ. Φλώρινας",
         "description": "Ιωάννη Τρύπη 1, T.K. 53100, Φλώρινα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/florina-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police",
         "fixme": true
@@ -1353,6 +1555,8 @@
       "properties": {
         "title": "Α.Δ. Φωκίδας",
         "description": "Λ. Σαλώνων & Καραμανλή, Άμφισσα",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/fokida-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1366,6 +1570,8 @@
       "properties": {
         "title": "Α.Δ. Χαλκιδικής",
         "description": "Χαρ. Τρικούπη 41, Πολύγυρος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/xalkidiki-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1379,6 +1585,8 @@
       "properties": {
         "title": "Α.Δ. Χανίων",
         "description": "Λ. Ηρακλείου 23, Χανιά",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/xania-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
@@ -1392,6 +1600,8 @@
       "properties": {
         "title": "Α.Δ. Χίου",
         "description": "Κουντουριώτου 32, Χίος",
+        "passportgovgrUrl": "http://www.passport.gov.gr/orario-leitourgias/orario-leitourgias/xios-gr.html",
+        "astinomiagrUrl": "",
         "marker-color": "#0000ff",
         "marker-symbol": "police"
       }
