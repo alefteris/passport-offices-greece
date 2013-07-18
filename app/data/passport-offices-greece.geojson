@@ -839,7 +839,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [19.877889, 39.623879]
+        "coordinates": [19.882931, 39.630881]
       },
       "properties": {
         "title": "Υποδιεύθυνσης Ασφάλειας Κέρκυρας",
@@ -848,7 +848,6 @@
         "astinomiagrUrl": "",
         "marker-color": "#900020",
         "marker-symbol": "police",
-        "fixme": true
       }
     },
     {
@@ -1177,7 +1176,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [20.184544, 39.196958]
+        "coordinates": [20.183778, 39.196222]
       },
       "properties": {
         "title": "Α.Τ. Παξών",
